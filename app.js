@@ -5,7 +5,7 @@ const menuItems = document.querySelectorAll(".menuItem");
   {
     id: 1,
     title: "Air Force",
-    price: 119,
+    price: 119, 
     colors: [
       {
         code: "black",
