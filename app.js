@@ -2,7 +2,7 @@
 const menuItems = document.querySelectorAll(".menuItem");
 
  const products = [
-  {
+  { 
     id: 1,
     title: "Air Force",
     price: 119, 
