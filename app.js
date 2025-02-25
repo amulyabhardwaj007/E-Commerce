@@ -20,6 +20,7 @@ const menuItems = document.querySelectorAll(".menuItem");
       },
     ],
   },
+  
   {
     id: 2,
     title: "Air Jordan",
