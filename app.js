@@ -2,6 +2,7 @@
 const menuItems = document.querySelectorAll(".menuItem");
 
 
+
  const products = [
   { 
     id: 1,
